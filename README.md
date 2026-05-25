@@ -1,7 +1,8 @@
 # IPTCFiller — AI-Powered IPTC Metadata for Adobe Lightroom Classic
 
-**IPTCFiller** is a free, open-source Adobe Lightroom Classic plugin that uses Claude AI and GPS data to automatically fill in your photo's IPTC metadata — saving you hours of manual data entry.
-
+**IPTCFiller** IPTCFiller is an AI-powered Adobe Lightroom Classic plugin that uses Claude AI and GPS data to automatically fill in your photo's IPTC metadata — saving hours of manual data entry.
+Built by Rob Durston — Belfast Photo Workshops
+Get IPTCFiller — Belfast Photo Workshops
 Built by **[Rob Durston](https://www.belfastphotoworkshops.com)** & Claude (Anthropic) — [Belfast Photo Workshops](https://www.belfastphotoworkshops.com)
 
 ---
